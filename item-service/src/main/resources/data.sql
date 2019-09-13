@@ -1,0 +1,2 @@
+insert into item_service(item_name,item_id,description,price,port)values('pen',100L,'novels',157,0);
+insert into item_service(item_name,item_id,description,price,port)values('book',1000L,'writen by shakesphere',157,0);

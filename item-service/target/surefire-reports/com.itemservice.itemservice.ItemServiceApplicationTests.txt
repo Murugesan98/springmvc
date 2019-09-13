@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.itemservice.itemservice.ItemServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.338 s <<< FAILURE! - in com.itemservice.itemservice.ItemServiceApplicationTests
+contextLoads(com.itemservice.itemservice.ItemServiceApplicationTests)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+
